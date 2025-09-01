@@ -23,7 +23,7 @@ L’objectif est de créer des représentations visuelles intuitives et interact
   1. Carte de Chicago avec taux de criminalité
      <img width="1077" height="472" alt="image" src="https://github.com/user-attachments/assets/a8416bd3-0fc6-44b3-890b-36c760ba5c4a" />
   2. Carte de la France par département
- <img width="1077" height="655" alt="image" src="https://github.com/user-attachments/assets/f9ccdd9c-f84f-4a65-ba7f-5f0a07de8155" />
+     <img width="1077" height="655" alt="image" src="https://github.com/user-attachments/assets/f9ccdd9c-f84f-4a65-ba7f-5f0a07de8155" />
 
      
 ## Lancer le projet localement
